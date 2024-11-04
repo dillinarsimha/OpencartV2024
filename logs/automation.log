@@ -1,0 +1,7 @@
+2024-10-24 12:14:45 INFO  TC001_AccountRegistrationTest:29 - *****Starting of TC001_AccountRegistrationTest *******
+2024-10-24 12:14:48 INFO  TC001_AccountRegistrationTest:58 - *****validating expected message *******
+2024-10-24 12:14:48 ERROR TC001_AccountRegistrationTest:64 - Test failed
+2024-10-24 12:14:48 INFO  TC001_AccountRegistrationTest:82 - *****Finiehsed  TC001_AccountRegistrationTest *******
+2024-10-24 12:14:50 INFO  TC002_LoginTest:19 - ******Starting TC002_LoginTest****
+2024-10-24 12:14:50 INFO  TC002_LoginTest:23 - ******clicking on my account & login ****
+2024-10-24 12:14:52 INFO  TC002_LoginTest:45 - ******Starting TC002_LoginTest****
